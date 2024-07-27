@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword />
+    <History>True|2024-07-27T14:30:07.7468720Z;True|2024-07-27T14:24:40.4465456+03:00;True|2024-07-27T14:16:28.4180032+03:00;True|2024-07-27T13:16:39.4444371+03:00;True|2024-07-27T13:12:48.7672314+03:00;True|2024-07-27T12:46:51.1881581+03:00;False|2024-07-27T12:46:30.2954192+03:00;True|2024-07-27T12:05:31.7094037+03:00;True|2024-07-27T11:37:23.8296886+03:00;True|2024-07-27T11:30:17.3741621+03:00;True|2024-07-27T11:07:12.2986704+03:00;True|2024-07-27T11:04:52.1813134+03:00;True|2024-07-27T11:03:10.8804684+03:00;True|2024-07-27T10:42:51.2521902+03:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Server=MYSQL8001.site4now.net%3bDatabase=db_aab700_gamedb%3bUid=aab700_gamedb%3bPwd=Veli4747</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>

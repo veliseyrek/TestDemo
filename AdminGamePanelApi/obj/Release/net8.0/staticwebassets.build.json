@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "uaAwMo4aeXzGeLoW3ax6SWFzwBjfAXxHi15ZP3ZI9N4=",
+  "Source": "AdminGamePanelApi",
+  "BasePath": "_content/AdminGamePanelApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

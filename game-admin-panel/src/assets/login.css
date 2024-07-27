@@ -1,0 +1,47 @@
+/* Container */
+.login-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background: linear-gradient(to right, #00c6ff, #0072ff); /* Arka plan renk geçişi */
+  }
+  
+  /* Form Box */
+  .login-box {
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    width: 100%;
+    max-width: 400px;
+  }
+  
+  /* Typography */
+  .login-title {
+    font-size: 2rem;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  /* TextField */
+  .login-input {
+    margin-bottom: 16px;
+  }
+  
+  /* Button */
+  .login-button {
+    background-color: #0072ff;
+    color: white;
+    font-size: 1rem;
+    font-weight: bold;
+    border-radius: 4px;
+    padding: 10px 20px;
+    transition: background-color 0.3s;
+  }
+  
+  .login-button:hover {
+    background-color: #005bb5;
+  }
+  
